@@ -32,11 +32,5 @@ This is not an official OpenAI product. This is a personal project and is not af
 ### This is a library and not intended for direct CLI use
 The CLI functionality is for demo and testing only. Captcha is not supported (For unclean IP addresses)
 
-### CLI use
-[@rawandahmad698](https://github.com/rawandahmad698) has a much better CLI tool at
 
-**[PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)** supports captcha!
 
-# Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=acheong08/ChatGPT&type=Date)](https://star-history.com/#acheong08/ChatGPT&Date)
